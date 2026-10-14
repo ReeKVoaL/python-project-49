@@ -23,7 +23,20 @@ cd python-project-49
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+This project was built using these tools:
 
+| Tool                                                                   | Description                                             |
+|------------------------------------------------------------------------|---------------------------------------------------------|
+| [uv](https://docs.astral.sh/uv/)                                       | "An extremely fast Python package and project manager, written in Rust" |
+| [ruff](https://docs.astral.sh/ruff/)                                   | "An extremely fast Python linter and code formatter, written in Rust" |
+
+[![asciicast](https://asciinema.org/a/rFTvuTc12Kpplt02.svg)](https://asciinema.org/a/rFTvuTc12Kpplt02)
+
+### Setup
+
+```bash
+make install
+```
 ---
 
 <details>
