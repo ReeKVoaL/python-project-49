@@ -30,7 +30,8 @@ This project was built using these tools:
 | [uv](https://docs.astral.sh/uv/)                                       | "An extremely fast Python package and project manager, written in Rust" |
 | [ruff](https://docs.astral.sh/ruff/)                                   | "An extremely fast Python linter and code formatter, written in Rust" |
 
-Как это должно работать:[![asciicast](https://asciinema.org/a/rFTvuTc12Kpplt02.svg)](https://asciinema.org/a/rFTvuTc12Kpplt02)
+Как это должно работать:[![Проверка на четность](https://asciinema.org/a/rFTvuTc12Kpplt02.svg)](https://asciinema.org/a/rFTvuTc12Kpplt02)
+Как это должно работать:[![Калькулятор](https://asciinema.org/a/11TwEQxee3qvKLr5.svg)](https://asciinema.org/a/11TwEQxee3qvKLr5)
 
 ### Setup
 
