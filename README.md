@@ -36,6 +36,8 @@ This project was built using these tools:
 
 Как это должно работать:[![Поиск НОД](https://asciinema.org/a/N2qtEfeH2A0vFnnR.svg)](https://asciinema.org/a/N2qtEfeH2A0vFnnR)
 
+Как это должно работать:[![Арифметическая прогресия](https://asciinema.org/a/CJRSRBXT2JBNWgGW.svg)](https://asciinema.org/a/CJRSRBXT2JBNWgGW)
+
 ### Setup
 
 ```bash
