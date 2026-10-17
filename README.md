@@ -38,6 +38,8 @@ This project was built using these tools:
 
 Как это должно работать:[![Арифметическая прогресия](https://asciinema.org/a/CJRSRBXT2JBNWgGW.svg)](https://asciinema.org/a/CJRSRBXT2JBNWgGW)
 
+Как это должно работать:[![Проверка на простое число](https://asciinema.org/a/ENI6A81RLtcOzpdY.svg)](https://asciinema.org/a/ENI6A81RLtcOzpdY)
+
 ### Setup
 
 ```bash
