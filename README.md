@@ -34,6 +34,8 @@ This project was built using these tools:
 
 Как это должно работать:[![Калькулятор](https://asciinema.org/a/11TwEQxee3qvKLr5.svg)](https://asciinema.org/a/11TwEQxee3qvKLr5)
 
+Как это должно работать:[![Поиск НОД](https://asciinema.org/a/N2qtEfeH2A0vFnnR.svg)](https://asciinema.org/a/N2qtEfeH2A0vFnnR)
+
 ### Setup
 
 ```bash
