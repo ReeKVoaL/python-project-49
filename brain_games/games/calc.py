@@ -23,4 +23,4 @@ def generate_round_data():
         # Показываем выражение пользователю
     question = f"{num1} {operator} {num2}"
 
-    return question, correct_answer  # Выход из функции (завершение игры)
+    return question, correct_answer

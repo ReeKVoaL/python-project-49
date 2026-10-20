@@ -11,4 +11,4 @@ def generate_round_data():
     # Определяем правильный ответ
     correct_answer = "yes" if number % 2 == 0 else "no"
 
-    return question, correct_answer  # Выход из функции (завершение игры)
+    return question, correct_answer

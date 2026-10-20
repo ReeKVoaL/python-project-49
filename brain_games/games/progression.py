@@ -7,7 +7,7 @@ RULES = "What number is missing in the progression?"
 def generate_round_data():
     start = random.randint(1, 50)  # Начальное число прогрессии
     step = random.randint(1, 10)  # Шаг прогрессии
-    length = 10  #Длина прогрессии
+    length = 10  # Длина прогрессии
 
     # Создаем список чисел арифметической прогрессии
     progression = [str(start + i * step) for i in range(length)]

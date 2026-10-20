@@ -13,4 +13,4 @@ def generate_round_data():
 
     correct_answer = math.gcd(num1, num2)
 
-    return question, correct_answer  # Выход из функции (завершение игры)
+    return question, correct_answer
