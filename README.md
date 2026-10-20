@@ -13,8 +13,6 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
 ```bash
 git clone https://github.com/ReeKVoaL/python-project-49.git
 cd python-project-49
@@ -22,7 +20,6 @@ cd python-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 This project was built using these tools:
 
 | Tool                                                                   | Description                                             |
